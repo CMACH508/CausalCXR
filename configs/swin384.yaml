@@ -1,0 +1,13 @@
+img_size: 384
+n_env: 5
+data_path: ./datasets
+train_set: mimic
+batch_size: 10
+batch_size_spl: 70
+mean: null
+std: null
+resume_epoch: null
+resume_path: ./checkpoints
+pretrained_path: ./pretrain_models
+pretrained_model: swinv2_large_patch4_window12to24_192to384_22kto1k_ft.pth
+log_path: ./logs
