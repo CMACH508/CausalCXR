@@ -11,12 +11,12 @@ Causal intervention has been widely used in deep learning to tackle the confound
 - timm
 - sklearn
 
-## Preprocess Training Set
+## Preprocess the Training Set
 ```shell
 python dataset_gen.py
 ```
 
-## Preprocess Test Set
+## Preprocess the Test Set
 ```shell
 python dataset_gen.py --test_set chexpert
 python dataset_gen.py --test_set chestxray8
