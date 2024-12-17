@@ -18,9 +18,9 @@ python dataset_gen.py
 
 ## Preprocess Test Set
 ```shell
-python dataset_gen.py --test_set ./chexpert
-python dataset_gen.py --test_set ./chestxray8
-python dataset_gen.py --test_set ./openi
+python dataset_gen.py --test_set chexpert
+python dataset_gen.py --test_set chestxray8
+python dataset_gen.py --test_set openi
 ```
 
 ## Normalize the Trainin Set
