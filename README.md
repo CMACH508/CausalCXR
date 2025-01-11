@@ -39,28 +39,16 @@ python test.py
 ```
 
 ## Citation
-
-
 Please cite our work if you find our code/paper is useful to your work.
-
-
 ```
-@INPROCEEDINGS{9995021,
-
+@INPROCEEDINGS{10822726,
   author={Ma, Qin and Zeng, Lin and Tu, Shikui and Xu, Lei},
-
   booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
-
   title={A Multimodal Deep Neural Network for Causally Learning Chest X-ray Images}, 
-
   year={2024},
-
   volume={},
-
   number={},
-
-  pages={509-514},
-
-  doi={10.1109/BIBM55620.2022.9995021}}
-
+  pages={3592-3597},
+  keywords={Training;Accuracy;Artificial neural networks;Feature extraction;Transformers;Lesions;Data mining;X-ray imaging;Biomedical imaging;Image classification},
+  doi={10.1109/BIBM62325.2024.10822726}}
 ```
